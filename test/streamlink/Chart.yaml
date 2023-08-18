@@ -1,0 +1,33 @@
+apiVersion: v2
+appVersion: "0.14.1"
+dependencies:
+  - name: common
+    repository: https://library-charts.truecharts.org
+    version: 14.0.1
+description: "Record VODs and live streams."
+home: https://github.com/iaredavid01/charts/streamlink
+keywords:
+  - streamlink
+kubeVersion: ">=1.16.0-0"
+maintainers:
+  - name: idaredavid01
+    url: https://github.com/iaredavid01
+name: streamlink
+sources:
+  - https://github.com/iaredavid01/charts/tree/main/charts/streamlink
+  - https://github.com/lauwarm/docker-streamlink-recorder
+version: 1
+annotations:
+  truecharts.org/SCALE-support: "true"
+
+
+
+
+
+
+
+
+
+
+
+https://github.com/iaredavid01/charts/tree/main/charts/streamlink

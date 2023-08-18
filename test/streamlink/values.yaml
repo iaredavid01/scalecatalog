@@ -1,0 +1,15 @@
+image:
+  repository: lauwarm/streamlink-recorder
+  pullPolicy: IfNotPresent
+  tag: latest
+
+persistence:
+  script:
+    enabled: true
+    mountPath: /home/script
+  plugins:
+    enabled: true
+    mountPath: /home/plugins
+  data:
+    enabled: true
+    mountPath: /home/download

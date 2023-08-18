@@ -1,0 +1,42 @@
+{
+    "charts": {},
+    "test": {
+            "streamlink": {
+                "app_readme": "",
+                "categories": [
+                    "mediatools"
+                ],
+                "description": "This Chart will install and run an instance of streamlink to record VODs and live streams.",
+                "healthy": true,
+                "healthy_error": null,
+                "home": "https://github.com/iaredavid01/charts/tree/main/charts/streamlink",
+                "latest_version": "1",
+                "latest_app_version": "latest",
+                "latest_human_version": "latest_1",
+                "last_update": "2023-08-17",
+                "name": "streamlink",
+                "recommended": false,
+                "title": "streamlink",
+                "maintainers": [
+                    {
+                        "name": "iaredavid01",
+                        "url": "https://github.com/iaredavid01"
+                    }
+                ],
+                "tags": [],
+                "screenshots": [],
+                "sources": [
+                    "https://github.com/iaredavid01/charts/tree/main/charts/streamlink",
+                    "https://github.com/lauwarm/docker-streamlink-recorder",
+                    "https://github.com/streamlink/streamlink/"
+                ],
+                "icon_url": ""
+            }
+        },
+    "dev": {},
+    "operators": {},
+    "incubator": {},
+    "dependency": {},
+    "enterprise": {}
+    }
+}
