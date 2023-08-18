@@ -18,16 +18,7 @@ sources:
   - https://github.com/lauwarm/docker-streamlink-recorder
 version: 1
 annotations:
+  truecharts.org/categories: |
+      - mediatools
+      - test
   truecharts.org/SCALE-support: "true"
-
-
-
-
-
-
-
-
-
-
-
-https://github.com/iaredavid01/charts/tree/main/charts/streamlink
